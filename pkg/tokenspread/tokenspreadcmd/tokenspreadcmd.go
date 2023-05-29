@@ -6,8 +6,8 @@ import (
 	"sync"
 
 	"github.com/docker/docker/client"
+	"github.com/mrlutik/autoflowhub/internal/docker"
 	"github.com/mrlutik/autoflowhub/pkg/keygen/usecase"
-	"github.com/mrlutik/autoflowhub/pkg/tokenspread/docker"
 
 	"github.com/spf13/cobra"
 )
