@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	use              = "txgen"
+	use              = "txsgen"
 	shortDescription = "command to generate transactions from generated accounts"
 	longDescription  = "dummy field for some very useful longdescription"
 )
